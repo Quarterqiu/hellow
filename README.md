@@ -1,5 +1,5 @@
 # // ==UserScript==
-// @name         🐮ABC 网课助手｜超星学习通｜智慧树｜🚀AI答题｜💯自动刷课｜▶️一键操作｜🏆超全题库（每日更新、自动收录）｜支持划词搜题
+// @name        ｜超星学习通｜智慧树｜🚀AI答题｜💯自动刷课｜▶️一键操作｜🏆超全题库（每日更新、自动收录）｜支持划词搜题
 // @namespace    oolikeABC
 // @version      4.3.0
 // @author       oolikeABC
